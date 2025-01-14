@@ -1,13 +1,11 @@
-<!--<h1 align="center">
-  <img src="https://github.com/ani404Hub/ani404Hub/blob/output/Create%20Name%20Snow%20Flake.svg" alt="Animesh Maji" />
-</h1> -->
+<h1 align="center">
+  <img src="https://github.com/ani404Hub/ani404Hub/blob/main/Create%20Snow%20Flake.svg" alt="Animesh Maji" />
+</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Animesh+Maji....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;A+Passionate+Web+Developer;Nice+to+meet+you!+🙂&center=true&size=28">
   </a>
 </h1>
-
-<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani404hub&label=Profile%20views&color=0e75b6&style=flat" alt="ani404hub" /> </p>
 <p><em>All of my projects are available at <a href="https://github.com/ani404Hub?tab=repositories">GitHub
@@ -19,7 +17,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/animesh-maji-60b27917b/**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+<a href="https://www.linkedin.com/in/animesh-maji-60b27917b/" title="LinkedIn Profile"><img width="22" src="https://github.com/ani404Hub/ani404Hub/blob/main/linkedin.svg"> LinkedIn</a>
 <p align="left">
 </p>
 
