@@ -7,8 +7,8 @@
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani404hub&label=Profile%20views&color=0e75b6&style=flat" alt="ani404hub" /> </p>
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZmdjZmd2Y3bjIza3Nvem1kNjVjeHkyeHljNHBzbmZqdjJwdWcybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/TqlzaCdaZcyQPw4LtI/giphy.gif" width="230">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani404hub&label=Profile%20views&color=0e75b6&style=flat" alt="ani404hub" /> </p>
 
 - 🔭 All of my projects are available at <a href="https://github.com/ani404Hub?tab=repositories">GitHub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27">
 
