@@ -8,17 +8,19 @@
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani404hub&label=Profile%20views&color=0e75b6&style=flat" alt="ani404hub" /> </p>
-<p><em>All of my projects are available at <a href="https://github.com/ani404Hub?tab=repositories">GitHub
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-- 💬 Ask me about **Technoid, Gadget head, Lefties & Itchy feets**
+- 🔭 All of my projects are available at <a href="https://github.com/ani404Hub?tab=repositories">GitHub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27">
 
-- 📫 How to reach me **https://www.linkedin.com/in/animesh-maji-60b27917b/**
+- 💬 About me **Technoid, Gadget head, Lefties & Itchy feets** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="26">
+
+- 🌱 Currently learning **LLMs, RAG, Cloud Native Computing, Designs**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/animesh-maji-60b27917b/" title="LinkedIn Profile"><img width="22" src="https://github.com/ani404Hub/ani404Hub/blob/main/linkedin.svg"> LinkedIn</a>
+<h5 align="left">
+  <code><a href="https://www.linkedin.com/in/animesh-maji-60b27917b/" title="LinkedIn Profile"><img width="22" src="https://github.com/ani404Hub/ani404Hub/blob/main/linkedin.svg"> LinkedIn</a></code>
+  <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
 <p align="left">
+</h5>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
