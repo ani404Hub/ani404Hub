@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <h5 align="left">
   <code><a href="https://www.linkedin.com/in/animesh-maji-60b27917b/" title="LinkedIn Profile"><img width="22" src="https://github.com/ani404Hub/ani404Hub/blob/main/linkedin.svg"> LinkedIn</a></code>
-  <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
+  <code><a href="https://www.hackerrank.com/profile/tito_animesh" title="HackerRank Profile"><img width="22" src="https://github.com/ani404Hub/ani404Hub/blob/main/linkedin.svg"> HackerRank</a></code>
 <p align="left">
 </h5>
 </p>
